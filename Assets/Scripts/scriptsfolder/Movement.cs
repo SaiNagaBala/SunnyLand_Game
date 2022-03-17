@@ -60,5 +60,8 @@ public class Movement : MonoBehaviour
         {
             animator.SetBool("isJump", false);
         }
+
     }
+   
+
 }

@@ -12,11 +12,9 @@ public class EnemyFlipScript : MonoBehaviour
         spriteRenderer.flipX = true;
         
     }
+    
+    
 
     // Update is called once per frame
-    void Update()
-    {
 
-        
-    }
 }
